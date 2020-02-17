@@ -1,2 +1,0 @@
-class InsurancesController < ApplicationController
-end
