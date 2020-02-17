@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  resources :behaviors
+  resources :conditions
+  resources :departments
   resources :meds
   resources :providers
   resources :users
