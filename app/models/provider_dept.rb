@@ -1,0 +1,2 @@
+class ProviderDept < ApplicationRecord
+end
