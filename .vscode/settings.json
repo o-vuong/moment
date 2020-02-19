@@ -1,0 +1,17 @@
+{
+    "ruby.rubocop.executePath": "",
+    "ruby.rubocop.onSave": true,
+    "ruby.useBundler": true,
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "npm-intellisense.importES6": true,
+    "npm-intellisense.importQuotes": "'",
+    "npm-intellisense.importLinebreak": ";\r\n",
+    "npm-intellisense.importDeclarationType": "const",
+    "npm-intellisense.scanDevDependencies": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "git.ignoreLimitWarning": true,
+
+}
