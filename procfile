@@ -1,2 +1,2 @@
-backend: rails server -p 3001
-frontend: cd client && PORT=3000 yarn start
+backend: rails server -p 3000
+frontend: cd client && PORT=3001 yarn start
