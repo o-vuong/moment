@@ -6,10 +6,10 @@ ruby '2.6.5'
 #added gems
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'foreman'
-gem 'knock'
+gem 'knock', '>= 2.1.1'
 gem 'jwt'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
+gem 'rails', '~> 6.0.4', '>= 6.0.4.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
